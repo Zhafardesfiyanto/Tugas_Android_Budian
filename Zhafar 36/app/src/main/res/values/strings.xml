@@ -1,7 +1,13 @@
 <resources>
-    <string name="app_name">Form Biodata</string>
-    <string name="masukkan_nama">Masukkan Nama</string>
-    <string name="masukkan_alamat">Masukkan Alamat</string>
-    <string name="simpan">Simpan</string>
-    <string name="hasil_muncul">Hasil akan muncul di sini</string>
+    <string name="app_name">FormBiodata</string>
+
+    <string-array name="agama_array">
+        <item>Pilih Agama</item>
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Katolik</item>
+        <item>Hindu</item>
+        <item>Buddha</item>
+        <item>Konghucu</item>
+    </string-array>
 </resources>

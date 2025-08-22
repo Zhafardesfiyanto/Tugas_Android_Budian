@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Form Biodata"
+rootProject.name = "zhafar"
 include(":app")
  
